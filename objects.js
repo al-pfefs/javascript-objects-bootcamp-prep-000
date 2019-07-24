@@ -1,3 +1,0 @@
-var playlist = {}
-
-function updatePlaylist
